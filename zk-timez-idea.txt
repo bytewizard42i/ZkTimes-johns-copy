@@ -1,0 +1,147 @@
+What is ZK TimeZ ?
+
+ZK TimesZ 1st Edition
+Idea: Combining Web3 and Midnights Zk Proof to give Writers and Readers cheap/ reliable
+Newspaper articles while minimizing AI, Propaganda, and political Biased News that have Brain
+Rot written all over it.
+(when fully defined)
+
+Decentralized information Market
+●​ Writers Earn Money (Stablecoins, BTC, ADA, Any crypto if possible)
+●​ Readers Earn money
+●​ Fact checkers earn money
+●​ Advertisers reach real people
+●​ Truth has a score ( very crucial for staked writers for publicity)
+●​ Reputation is on chain
+●​ Bots are controlled
+●​ No central company (Country) controls information
+Roles
+Writers - Write articles + earn (Minimal earnings if Bots are used) Bots = Gay
+Readers- Read + Earn
+Fact Checkers - Verify + Earn
+AI - Assist Verification
+Advertisers - Pay for attention (anyone can do also this is apart of what Web3 is)
+stakers(publisher) - secure System
+Midnight - Privacy for those who use + payments
+
+WEB3 side of ZK Timez
+
+ZK Timez = Web3 side that anyone can use meaning john, Bob, and Sally can
+Write/Read/advertise/own their part of ZK Timez. This is the user side that people use and see
+when doing their “Posting, reading, Etc,”
+
+Rules that need to be Followed
+
+ZK Timez and bridge Building Rules
+Rules
+Writers must stake small amount of X Crypto to Write articles
+-​
+
+(ex.) writer stakes $2-$10 worth of Crypto to publish. If the article is flagged as Spam, AI,
+Propaganda, Biased, not legitimate , stretching truth. They lose their stake + earnings.
+This incentivises Honesty, legitimacy, and Non AI
+
+Truth Verification Model ( rough draft)
+3 layer design
+1.)​ AI - Checks Facts, Sources,location AI altered Videos photos and plagiarism
+2.)​ Human Reviewer- High Rep Reviewer Vote (Maybe Applied for position?)
+3.)​ Proof - Document/ ZK Proofs
+Each Article published will get a “truth” rating maybe of 85-88% as minimum? (Idea)
+Maybe a more step process for fact checking maybe no real person to eliminate the
+biased side. Still under construction
+
+Writer Reputation Score based on
+-​
+-​
+-​
+-​
+-​
+-​
+-​
+-​
+
+Article accuracy = +
+Article not flagged = +
+Time on platform = +
+Reader *amount not rating - this can make biased readers ruin reliable writers value. = +
+Fact checker rating = +
+False articles = Hype/ misleading titles = Bot writing = - (Bot writing automatically worsens money return for an article and lowers
+“Truth rating” to incentivise no Bots)
+
+Propaganda / Attack Protection
+Hedera Succeeds in this aspect where we can incorporate it to the security to ZK TimeZ
+Imagine 10 people are running a network, the people are nodes.
+For the network to approve something as “True/Valid” Most of them have to agree
+
+To be Specific this number is ⅔ or 66% this is where it becomes Super expensive to attack the
+system even if you have alot of cash. It ruins the incentive of the attacker because they lost their
+money to attack the system.
+(ex.) - if a criminal wants to rig the system, they must bribe 7 judges not just 1 0r 2.
+That becomes:
+-​ Expensive
+-​ Hard to coordinate
+-​ Very obvious
+-​ Very risky/ usually fails or looses funds
+
+Sub-systems to incoperate into this.
+
+Sub-systems to explore
+-​
+
+Twitter (X) How Community Notes can be incorporated into the precheck “Fact” Score
+for legitimacy
+Community Notes is one of the best truth systems on the internet right now
+-​ Notes written by users
+-​ Rated by other users
+-​ Notes only show if people from different viewpoints agree.
+-​ Reduces Political Bias.
+
+Community Notes ZK TimeZ Transition idea
+Community Notes/ Article Fact-Checker Layer
+People rate notes/ reviewers rate fact checks
+Needs cross-group agreement/needs cross reputation agreement
+Public correction/ public correction layer
+Notes attached to post/ notes attached to article
+transparency/ on-chain history
+
+Substack features transition to ZK TimeZ?
+●​
+●​
+●​
+●​
+●​
+●​
+●​
+
+Paid Subscriptions/ Paid premium version
+Free +paid Posts/Public + private articles?
+Email list - wallet followers?
+Writer owns audience/ Writer owns wallet list
+Monthly income/ smart contract recurring payments
+tips/ Crypto Tips
+Pubs/ Writer channels
+
+How many Bridges?
+
+We will need to create each one of these bridges for this application and repo
+1.)​ Midnight- Privacy, ZK proofs, identity
+2.)​ Cardano- NIGHT token lives here until mainnet
+3.)​ Ethereum- Users + stablecoins
+4.)​ Bitcoin- Payments/ Anchoring Proof
+5.)​ IPFS- Store Articles
+6.)​ Github- store code
+7.)​ Ai APIs- Fact Checking
+8.)​ Payment rails- on/off ramps
+9.)​ Wallets- login
+10.)​ Ads system- Advertisers
+These will need to be the network connectors for ZK TimeZ
+ZK TimeZ repos
+ZK-TimeZ-Frontend (Will be the website)
+ZK-TimeZ-Contracts ( Smart Contracts)
+ZK–TImeZ-Reputation( Reputation system)
+ZK-TimeZ-AI (AI Fact Check System)
+ZK-TimeZ-Ads (Ad System)
+ZK-TImeZ-Docs (documentation)
+Please remember that the front end is a WEB3 Arcitecture
+
+
